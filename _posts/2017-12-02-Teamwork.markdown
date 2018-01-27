@@ -1,0 +1,27 @@
+---
+title: "Teamwork"
+layout: post
+date: 2017-12-02 22:44
+image: 
+headerImage: false
+tag:
+- Organisation
+- Teamwork
+- Education
+star: true
+category: blog
+author: dean
+description: Teamwork
+---
+
+Teamwork is one the most fundamental things uni should teach you. You use it throughout life and it’s practically the most applicable skill. You use it in your career, relationships, and every social situation.
+
+My experience this year with teamwork was creating a presentation for my software engineering module. The presentation topic was famous computer scientists. We didn’t have the choice to pick our team mates, like in most real-life situations, and at first there was some mayhem before we got to work.
+
+The first days when the task was given no one really showed any initiative, myself included. We were kind of stuck together doing work nobody really wanted to do. At some point I wanted to do my work sooner so I wouldn’t have to do it an hour before the deadline. I purposed to the team that we split the work. Everybody started actually thinking of things to research and write about with only the sentence “we have 3 days left let’s split the work and do it now so we don’t have to worry”.
+
+After everybody had their part and was working on it, some of the teammates were still not really interested and didn’t do the work. At that time I didn’t much care so I just submitted my part and talked about what else we could do. By some miracle the others started working even harder than myself and everything went very smoothly, we were even marked 7/10 at the end! 
+
+Having thought about the motivation and workflow of the project I now realise that when working in a team the most important chain is you! You yourself are responsible for the whole team, it doesn’t matter if you are the designated leader or whatever. When I first submitted my work and showed interest the rest just saw that and followed. The best thing I learned of this experience was, do not wait around for someone else to take responsibility and do the work and motivation, you are the person you are waiting for to take action!
+
+---

@@ -1,0 +1,32 @@
+---
+title: "Presenting 101"
+layout: post
+date: 2017-10-04 22:44
+image: 
+headerImage: false
+tag:
+- Education
+- Life
+star: true
+category: blog
+author: dean
+description: Presenting
+---
+
+PowerPoints and near-deadline submissions again, it’s time for this year’s academic run of presentations! This year’s topic was programming languages and me and my team had do deliver a ten minute long presentation. 
+
+After doing all the bits about researching and selecting information we had to think about delivery and design. The presenting went fine with some bumps on the road, but as a whole we pulled through and these are the 3 rules about presenting that I learned thru experience this semester.
+
+1. Too much text
+
+First problem with any run of the mill presentation, TOO MUCH TEXT. That was the case at first with ours as well. People practically put on their whole sentences of what they wanted to say during presenting which rendered the slides practically useless because no one was looking at the confusing big words and sentences. I had the sense to cut out some of the text of some slides but left some of the them intact. Having gone through the experience of presenting without someone looking at the slides I now realise that you only should use them as an instrument, not as the main focus.
+
+2. Work on design together
+
+After deleting tons of textboxes, I showed everyone what we are going to send as our presentation. There were mixed signals. Some of the points people wanted to use were gone, and some key information they wanted to show was lost. We didn’t have time to rework it so we sent the edited version. Some team mates were actually salty and started saying things like “somebody cut off my points apparently” during the presentation. After presenting I made note to myself to do o their work only after discussing it with them.
+
+3. DO NOT TRY TO BE FUNNY
+
+This is a must have for every presentation. If you are funny ok, it’ll show by itself, if not, please please please do not try to be. Me and my team learned this the hard way. On one of the slides we put a PePe frog in a picture of our team. It was funny and seemed like a generally good idea to lighten up the mood. It backfired so much. When we got to the slide the presentation crashed and the page couldn’t be switched off for a while, so the picture just stood there awkwardly for the next 2 minutes while we were talking about implementation in computer languages. Never again. Moral of the story, do not exclusively try to be funny, it will probably backfire and become an awkward situation. 
+
+---
