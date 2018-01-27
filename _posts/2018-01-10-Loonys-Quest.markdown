@@ -141,19 +141,13 @@ As shown in the photos
 
 
 
-
-viewing done tasks
-![Screenshot](https://farm5.staticflickr.com/4747/38879495855_66594899a5_b.jpg)
-
-
-
-
-
-
-
 going through different levels
-![Screenshot](https://farm5.staticflickr.com/4750/38879495935_6ff4aa62be_b.jpg)
+![Screenshot](https://farm5.staticflickr.com/4662/39224468504_a461bc64c5.jpg)
 
+
+
+the Room of Code
+![Screenshot](https://farm5.staticflickr.com/4705/39224468424_64c2b5f778.jpg)
 
 
 
@@ -161,7 +155,6 @@ going through different levels
 
 example level
 ![Screenshot](https://farm5.staticflickr.com/4699/38879496015_04b1d31e2c_b.jpg)
-
 
 
 
