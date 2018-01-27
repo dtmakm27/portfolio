@@ -1,6 +1,3 @@
----
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
 <p>Team player software engineer with a can-do attitude, tons of initiative, phenomenal time management skills,
  and a strong user focus. Has developed several projects,
  including a real-time play-a-guitar musical game and has strong, hands-on, knowledge of programming in C#, Java, JavaScript and Python. </p>
