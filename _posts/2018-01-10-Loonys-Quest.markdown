@@ -16,7 +16,7 @@ externalLink: false
 <html>
 <body>
 <p>
-<a href="https://github.com/dtmakm27/Loony-s-Quest">
+<a href="https://github.com/dtmakm27/Loony-s-Quest" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ei-sc-github.svg/2000px-Ei-sc-github.svg.png" alt="Smiley face" title="Loony's Quest GitHub" width="100" height="100" align="right">
 </a>
 </p>
